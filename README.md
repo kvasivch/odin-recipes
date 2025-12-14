@@ -1,1 +1,2 @@
-# odin-recipes
+With this project, I demonstrate my basic HTML knowledge. The main objective is to display recipes and practice navigation by linking from the main page to individual recipe subpages. 
+I have demonstrated skills in creating and setting up HTML boilerplates, using images, links, ordered and unordered lists, and headers. Additionally, I have shown my ability to structure the project and work effectively with Git.
