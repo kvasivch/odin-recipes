@@ -1,3 +1,9 @@
 h1{
     background-color:rgb(136, 218, 145);
+    font-family: "Brush Script MT", sans-serif;
+}
+
+.borscht{
+    color: red;
+    font-family:'Courier New', Courier, monospace;
 }
