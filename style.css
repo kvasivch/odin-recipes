@@ -7,3 +7,7 @@ h1{
     color: red;
     font-family:'Courier New', Courier, monospace;
 }
+
+h2{
+    background-color:rgb(218, 217, 136);
+}
